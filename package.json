@@ -1,0 +1,23 @@
+{
+  "name": "solidcores",
+  "version": "0.0.1",
+  "description": "Application for listing and uploading IP-cores",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/solidcores/application.git"
+  },
+  "keywords": [
+    "fpga",
+    "ip-cores"
+  ],
+  "author": "Seva Zaikov <seva.zaikov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/solidcores/application/issues"
+  },
+  "homepage": "https://github.com/solidcores/application#readme"
+}
